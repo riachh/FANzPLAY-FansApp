@@ -13,7 +13,7 @@
 ## Running FANzPLAY Fans
   The .env file and Firebase authentification file have been removed from this app. This is done in order to prevent unknown parties from accessing or spamming our Firebase API Keys, which can lead to us being charged large amounts of money. 
   
-  To run the app, you must create an .env in your clone of the repository. Don't worry though, we've left behind documentation on how to do this! Click [here](https://tarheels.live/teamn/user-manual/) to access our project website's user manual and documentation page, and scroll down to the "Running FANzPLAY Guide" under Fans App Administrator Documentation. 
+  To run the app, you must create an .env and Firebase auth file in your clone of the repository. Don't worry though, we've left behind documentation on how to do this! Click [here](https://tarheels.live/teamn/user-manual/) to access our project website's user manual and documentation page, and scroll down to the "Running FANzPLAY Guide" under Fans App Administrator Documentation. 
 
 
 Cheers,
